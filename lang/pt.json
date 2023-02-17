@@ -1,4 +1,9 @@
-{
+},
+    "cant_stop": {
+      "name": "Sem Parar",
+      "description": "Não desça mais!"
+      "condition": "Entre no loop 10 vezes ou mais em Endless Staircase"
+    },
   "ynoproject": {
     "badge_amulet": {
       "name": "Amuleto do Colecionador de Emblemas",
